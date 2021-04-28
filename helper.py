@@ -47,3 +47,5 @@ while True:
         break
 
 cv2.destroyAllWindows()
+
+#sources: Pysource on youtube
