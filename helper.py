@@ -48,4 +48,3 @@ while True:
 
 cv2.destroyAllWindows()
 
-#sources: Pysource on youtube
